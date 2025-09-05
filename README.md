@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binshad K</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binshadcs" alt="binshadcs" /></a> </p>
 
